@@ -40,7 +40,7 @@ const Navigation = () => {
                 <Zap className="h-10 w-10 text-blue-400" />
                 <div className="absolute inset-0 h-10 w-10 bg-blue-400 rounded-full blur-lg opacity-30"></div>
               </div>
-              <span className="text-2xl font-bold gradient-text">Farmer Connect</span>
+              <span className="text-2xl font-bold gradient-text">Madarchod Connect</span>
             </motion.div>
           </Link>
 
