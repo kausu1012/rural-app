@@ -91,7 +91,7 @@ const HomePage = () => {
 
 Access rides, services, markets, and support – all in one place.                                                                        
 
-🚜 I'm a Farmer •
+🚜 I'm a  •
 🏙 I'm a City Service Provider</p>
             </motion.div>
 
